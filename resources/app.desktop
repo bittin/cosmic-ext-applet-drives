@@ -1,5 +1,6 @@
 [Desktop Entry]
 Name=Drives
+Name[cs]=Disky
 Exec=cosmic-ext-applet-drives
 Terminal=false
 Type=Application
