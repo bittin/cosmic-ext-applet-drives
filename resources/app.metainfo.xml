@@ -19,13 +19,16 @@
     https://github.com/cosmic-utils/cosmic-ext-applet-drives
   </url>
   <name>Drives</name>
+  <name xml:lang="cs">Disky</name>
   <summary>An applet for the COSMIC desktop to manage mounted drives</summary>
+  <summary xml:lang="cs">Applet prostředí COSMIC pro správu připojených disků</summary>
   <icon type="remote" width="64" height="64" scale="1">
     https://github.com/cosmic-utils/cosmic-ext-applet-drives/raw/main/resources/icons/hicolor/scalable/apps/icon.svg
   </icon>
   <url type="vcs-browser">https://github.com/cosmic-utils/cosmic-ext-applet-drives</url>
   <description>
     <p>Manage, access and unmount your removable drives from a simple applet.</p>
+    <p xml:lang="cs">Správa, přístup a odpojování vašich odpojitelných disků pomocí jednoduchého appletu.</p>
   </description>
   <launchable type="desktop-id">dev.cappsy.CosmicExtAppletDrives.desktop</launchable>
   <provides>
